@@ -3,25 +3,16 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to docut's documentation!
-=================================
-
-Another simple header
-======================
-
-Here is some text to explain some very complicated stuffs
-
-  print 'hello'
-  >> hello
-
-Guide
-^^^^^
+Welcome to BSIS documentation!
+==============================
 
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
 
-
+   introduction
+   overview
+   user_guide
 
 Indices and tables
 ==================
